@@ -15,7 +15,7 @@ This project is a modern Employee Management System built using Python and Custo
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.10.0 (Virtual environment)
 - CustomTkinter
 - SQLite3
 
