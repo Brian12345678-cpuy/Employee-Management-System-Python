@@ -54,6 +54,8 @@ python login.py
 - main.py: The main script to run the application.
 - database.py: Handles database operations.
 - database_backup.py: Handles the Employee Database's backup, replication and restoration.
+- Group Project Docmentation.pdf: For documentation of the application
+- Demo Video.mp4: A video demonstration of the application
   
 ## LICENSE: License information.
 
