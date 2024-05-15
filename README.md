@@ -29,10 +29,10 @@ This project is a modern Employee Management System built using Python and Custo
 - SQLite3
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Brian12345678-cpuy/Employee-Management-System-Python.git
+Clone the repository:
+```bash
+git clone https://github.com/Brian12345678-cpuy/Employee-Management-System-Python.git
+```
 
 ### Navigate to the project directory:
 ```bash
