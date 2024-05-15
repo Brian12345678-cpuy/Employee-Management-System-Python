@@ -49,6 +49,12 @@ Run the main script to start the application:
 python login.py
 ```
 
+### Producing .exe file
+Run the following code to create an executable(.exe) file of the application for use on any other PC:
+```bash
+pyinstaller login.py --onefile -w
+```
+
 ## Project Structure
 - login.py: To enter credentials and access the system
 - main.py: The main script to run the application.
