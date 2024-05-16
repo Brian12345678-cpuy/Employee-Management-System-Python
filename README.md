@@ -56,12 +56,13 @@ pyinstaller login.py --onefile -w
 ```
 
 ## Project Structure
-- login.py: To enter credentials and access the system
+- login.py: To enter credentials and access the system.
 - main.py: The main script to run the application.
 - database.py: Handles database operations.
 - database_backup.py: Handles the Employee Database's backup, replication and restoration.
-- Group Project Docmentation.pdf: For documentation of the application
-- Demo Video.mp4: A video demonstration of the application
+- Group Project Docmentation.pdf: For documentation of the application.
+- Disaster Recovery Strategy Document.pdf: The additional file to be downloaded within the application.
+- Demo Video.mp4: A video demonstration of the application.
   
 ## LICENSE: License information.
 
